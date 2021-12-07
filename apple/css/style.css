@@ -1,0 +1,17 @@
+.navbar ul li a {
+  font-size: 14px !important;
+}
+
+.ipad,
+.watch .iphone,
+.watch .iwatch {
+  background: #000 !important;
+}
+
+.watch .col-md-6 {
+  min-height: 500px;
+}
+
+.watch .col-md-6 {
+  margin-bottom: 1rem;
+}
